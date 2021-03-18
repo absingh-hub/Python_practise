@@ -14,6 +14,7 @@ while True:
 		print(num)
 
 	except StopIteration:
+		
 		break
 	
 #Iterators can only go forward through __next__ method	
