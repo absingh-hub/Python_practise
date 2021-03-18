@@ -5,4 +5,5 @@ try:
 
 except:
 	print("Exception occured")	
+	print("Line Added")
 	
